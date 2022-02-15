@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+      <title>My Resume</title>
+      <h1>Elizaveta Dyachuk</h1>
+    <style>
+      body {
+        font-family: "Arial";
+      }
+
+      h2 {
+        color: rgb(0, 0, 0);
+        text-decoration: underline;
+      }
+
+      h3 {
+        font-style: italic;
+      }
+    </style>
+    </head>
+
+    
+  <body>
+
+    <h2>Selected work experience</h2>
+    <h3>Netology, Junior Business Analyst</h3>
+    <ul>
+      <li>Evaluated market for 2025 in the niche of Workforce and Upskilling</li>
+      <li>Created a unique partnership model with premium beauty salons</li>
+      <li>Performed tasks for 5 departments including Sales, Marketing, and MBA unit</li>
+    </ul>
+
+
+    <h2>Education</h3>
+    <h3>Higher School of Economics</h3>
+    <ul>
+      <li>Achieved GPA: 7.26</li>
+      <li>Hult Prize on Campus Winner</li>
+      <li>Speaker at the conference "The English language - the way to success"</li>
+    </ul>
+
+    <h2>Leadership Experience</h3>
+      <h3>Deloitte Young CFO School	Moscow</h3>
+      <ul>
+        <li>Successfully completed 40 hours of online courses on RAS, IFRS, 
+          financial analysis, international tax, and business processes</li>
+      </ul>
+
+      <h3>Product Star School</h3>
+      <ul>
+        <li>Wrote one of the best motivational essays and was awarded with an
+          online course in Product Management</li>
+      </ul>
+
+      <h3>Non-profit Organization "Warm House"</h3>
+      <ul>
+        <li>Taught English to an 8-year-old girl from a disadvantaged family during the 2nd
+          half of a school year</li>
+      </ul>
+
+      <h3>Alumni Mentoring</h3>
+      <ul>
+        <li>Attended over 15 mentorship meetings</li>
+        <li>Acted on advice of my mentor and managed to find an excellent full-time
+          position, set an evening routine, prioritize better</li>
+      </ul>
+</html>
